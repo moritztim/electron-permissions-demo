@@ -1,0 +1,12 @@
+{
+	"name": "midi-sysex-demo",
+	"version": "1.0.0",
+	"description": "Demonstrating MIDI SysEx without custom permission handler",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"dependencies": {
+		"electron": "^13.0.0"
+	}
+}
